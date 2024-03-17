@@ -1,4 +1,5 @@
 using UnityEngine;
+using static UnityEngine.GraphicsBuffer;
 
 public class ScreenCamControl : MonoBehaviour
 {
@@ -17,7 +18,9 @@ public class ScreenCamControl : MonoBehaviour
     private void Update()
     {
         screenCam.transform.position = mainCam.transform.position;
-        screenCam.transform.forward = -screen.up;
+        Quaternion newRotation = Quaternion.LookRotation(screen.forward, screen.up);
+
+        screenCam.transform.rotation = newRotation;
         Vector3 RTcoord = screenCam.transform.InverseTransformPoint(screenRT.position);
         Vector3 LBcoord = screenCam.transform.InverseTransformPoint(screenLB.position);
         Vector3 screencoord = screenCam.transform.InverseTransformPoint(screen.position);
