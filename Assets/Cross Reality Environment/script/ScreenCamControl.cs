@@ -8,7 +8,7 @@ public class ScreenCamControl : MonoBehaviour
     public Transform screen;
     public Transform screenRT; // right top
     public Transform screenLB; // left bottom
-    float farClipZ = 1000f;
+    public float farClipZ = 1000f;
     Matrix4x4 projectionMatrix;
 
     private void Start()
