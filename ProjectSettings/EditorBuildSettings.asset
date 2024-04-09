@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cross Reality Environment/Scenes/Cross Reality Setup_dragon.unity
+    guid: e0ebe4df71a1ebf4db0485f1f190ea8e
   m_configObjects: {}
