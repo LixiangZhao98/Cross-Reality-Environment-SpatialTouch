@@ -4,9 +4,9 @@
 * The visualization below the screen is projected on the surface. The visualization above the screen is rendered in AR HMD. `Two views are seamlessly combined into a cohesive 3D representation from the first person view.`
 
 # Install the project and Play the demo
-- Download Unity3D  and Create a new project. Here is a tutorial for [Unity3D Setup](https://github.com/LixiangZhao98/MeTACAST/blob/master/Assets/my/file/UnitySetup.pdf "Unity Setup").
-- Clone the repo with git lfs installed or download the archive [https://github.com/Cross-Reality-Environment-SpatialTouch/archive/refs/heads/master.zip](https://github.com/LixiangZhao98/Cross-Reality-Environment-SpatialTouch/archive/refs/heads/master.zip "archive") and open the project using Unity.
-- `Assets/Cross_Reality_Environment/Scenes/Cross Reality Setup_dragon.unity` is a demo for a dragon.
+- Download Unity Hub. Please refer to sec.1-4 in [tutorial](https://github.com/LixiangZhao98/asset/blob/master/Tutorial/Unity_Setup_General.pdf) if you are a new Unity user.
+- Clone the repo with git lfs installed or download the archive [https://github.com/Cross-Reality-Environment-SpatialTouch/archive/refs/heads/master.zip](https://github.com/LixiangZhao98/Cross-Reality-Environment-SpatialTouch/archive/refs/heads/master.zip "archive") and open the project using Unity (versions equal to/higher than 2019 have been tested). Please refer to sec.6 in [tutorial](https://github.com/LixiangZhao98/asset/blob/master/Tutorial/Unity_Setup_General.pdf) if you don't know how to open an existing project.
+- `Assets/Cross_Reality_Environment/Scenes/Cross Reality Setup_dragon.unity` is a demo scene.
 
 # Control
 * Use `WASD` to move your position.
