@@ -1,5 +1,5 @@
 # Cross-Reality-Environment-SpatialTouch
-![Image](https://github.com/LixiangZhao98/Cross-Reality-Environment-SpatialTouch/blob/master/Assets/gif/spatialtouch.gif "Image")
+![Image](https://raw.githubusercontent.com/LixiangZhao98/asset/master/Project/Cross-reality-Environment-SpatialTouch/spatialtouch.gif "Image")
 * This is a simulatior of SpatialTouch, a novel cross-reality environment that seamlessly integrates a monoscopic 2D surface (an interactive screen with touch and pen input) with a stereoscopic 3D space (an augmented reality HMD) to jointly host spatial data visualizations. 
 * The visualization below the screen is projected on the screen. The visualization above the screen is rendered in AR HMD. Two views are seamlessly combined into a `cohesive 3D representation` from the first person view.
 
