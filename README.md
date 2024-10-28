@@ -13,3 +13,27 @@
 * Use `WASD` to move your position.
 * Hold `left mouse button` to change you direction.
 * Use `Space Key` to reset you position.
+
+## BibTex
+```
+@article{Zhao:2024:SES,
+  author      = {Lixiang Zhao and Tobias Isenberg and Fuqi Xie and Hai-Ning Liang and Lingyun Yu},
+  title       = {SpatialTouch: Exploring Spatial Data Visualizations in Cross-reality},
+  journal     = {IEEE Transactions on Visualization and Computer Graphics},
+  year        = {2024},
+  volume      = {30},
+  number      = {12},
+  month       = dec,
+  pages       = {},
+  doi         = {10.1109/TVCG.2023.3326517},
+  shortdoi    = {10/gtnn25},
+  doi_url     = {https://doi.org/10.1109/TVCG.2024.3456368},
+  oa_hal_url  = {},
+  preprint    = {https://doi.org/10.48550/arXiv.2407.14833},
+  osf_url     = {https://osf.io/avxr9/},
+  url         = {https://tobias.isenberg.cc/p/Zhao2025SES},
+  github_url  = {https://github.com/LixiangZhao98/Cross-Reality-Environment-SpatialTouch},
+  pdf         = {https://tobias.isenberg.cc/personal/papers/Zhao_2025_SES.pdf},
+  video       = {https://www.youtube.com/watch?v=GUXvZKqg-7s&t=111s},
+}
+```
