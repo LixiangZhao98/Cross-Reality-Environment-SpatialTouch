@@ -1,4 +1,7 @@
 # Cross-Reality-Environment-SpatialTouch
+
+[Arxiv](https://arxiv.org/abs/2407.14833) | [Video](https://www.youtube.com/watch?v=GUXvZKqg-7s "Video") | [Paper](https://ieeexplore.ieee.org/document/10670539)
+
 ![Image](https://raw.githubusercontent.com/LixiangZhao98/asset/master/Project/Cross-reality-Environment-SpatialTouch/spatialtouch.gif "Image")
 
 ![Image](https://github.com/LixiangZhao98/asset/blob/master/Publications/Videos/SpatialTouch_Trim.gif "Image")
