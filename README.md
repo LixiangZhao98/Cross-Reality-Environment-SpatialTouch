@@ -3,17 +3,21 @@ SpatialTouch: Exploring Spatial Data Visualizations in Cross-reality
 | ![SpatialTouch_Image](https://raw.githubusercontent.com/LixiangZhao98/asset/master/Project/Cross-reality-Environment-SpatialTouch/teaser_.png "SpatialTouch_Image") |
 |:--------------------------------------------------------------------------------------------------------------------------:|
 
-[Arxiv](https://arxiv.org/abs/2407.14833) | [Video](https://www.youtube.com/watch?v=GUXvZKqg-7s "Video") | [Paper](https://ieeexplore.ieee.org/document/10670539)
-
 ![Image](https://raw.githubusercontent.com/LixiangZhao98/asset/master/Project/Cross-reality-Environment-SpatialTouch/spatialtouch.gif "Image")
 
 ![Image](https://github.com/LixiangZhao98/asset/blob/master/Publications/Videos/SpatialTouch_Trim.gif "Image")
-* This is a simulator of SpatialTouch,  
-* The visualization below the screen is projected on the screen. The visualization above the screen is rendered in AR HMD. Two views are seamlessly combined into a `cohesive 3D representation` from the first-person view.
-* Be noted that this is just a simulator to show the cameras' settings (position, orientation and projection matrix) for AR and surface rendering. The development toolkit for AR HMD and the communication across AR and screen devices are not included.
+
+[Arxiv](https://arxiv.org/abs/2407.14833) | [Video](https://www.youtube.com/watch?v=GUXvZKqg-7s "Video") | [Paper](https://ieeexplore.ieee.org/document/10670539)
+
 
 Spatialtouch is a novel cross-reality environment that seamlessly integrates a monoscopic 2D surface (an interactive screen with touch and pen input) with a stereoscopic 3D space (an augmented reality HMD) to host spatial data visualizations jointly. Refer to the [Video](https://www.youtube.com/watch?v=GUXvZKqg-7s "Video") for a quick review. For more details, please refer to our [Paper](https://ieeexplore.ieee.org/document/10670539) (SpatialTouch: Exploring Spatial Data Visualizations in Cross-reality), which is presented on [IEEE Visualization 2024](https://ieeevis.org/year/2024/welcome "VIS2024") and published in the journal [IEEE Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945 "TVCG").\
 Any pull requests and issues are welcome. If you find it useful, could you please give a star? Thanks in advance.
+
+
+# Note
+- This is a simulator of SpatialTouch,  
+- The visualization below the screen is projected on the screen. The visualization above the screen is rendered in AR HMD. Two views are seamlessly combined into a `cohesive 3D representation` from the first-person view.
+- Be noted that this is just a simulator to show the cameras' settings (position, orientation and projection matrix) for AR and surface rendering. The development toolkit for AR HMD and the communication across AR and screen devices are not included.
 
 # Install the project and Play the demo
 - Download Unity Hub. Please refer to sec.1-4 in [tutorial](https://github.com/LixiangZhao98/asset/blob/master/Tutorial/Unity_Setup_General.pdf) if you are a new Unity user.
@@ -21,9 +25,10 @@ Any pull requests and issues are welcome. If you find it useful, could you pleas
 - `Assets/Cross_Reality_Environment/Scenes/Cross Reality Setup_dragon.unity` is a demo scene.
 
 # Control
-* Use `WASD` to move your position.
-* Hold `left mouse button` to change you direction.
-* Use `Space Key` to reset you position.
+- Use `WASD` to move your position.
+- Hold `left mouse button` to change you direction.
+- Use `Space Key` to reset you position.
+
 
 ## BibTex
 ```
