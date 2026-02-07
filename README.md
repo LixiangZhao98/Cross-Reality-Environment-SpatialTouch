@@ -15,9 +15,9 @@ Any pull requests and issues are welcome. If you find it useful, could you pleas
 
 
 # Note
-- This is a simulator of SpatialTouch,  
+- Be noted that this is just a simulator in Unity to show the cameras' settings (position, orientation and projection matrix) for AR and surface rendering. The development toolkit for AR HMD and the communication across AR and screen devices are not included.
 - The visualization below the screen is projected on the screen. The visualization above the screen is rendered in AR HMD. Two views are seamlessly combined into a `cohesive 3D representation` from the first-person view.
-- Be noted that this is just a simulator to show the cameras' settings (position, orientation and projection matrix) for AR and surface rendering. The development toolkit for AR HMD and the communication across AR and screen devices are not included.
+
 
 # Install the project and Play the demo
 - Download Unity Hub. Please refer to sec.1-4 in [tutorial](https://github.com/LixiangZhao98/asset/blob/master/Tutorial/Unity_Setup_General.pdf) if you are a new Unity user.
