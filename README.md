@@ -1,4 +1,4 @@
-SpatialTouch: Exploring Spatial Data Visualizations in Cross-reality
+[VIS2024] SpatialTouch: Exploring Spatial Data Visualizations in Cross-reality
 ======
 | ![SpatialTouch_Image](https://raw.githubusercontent.com/LixiangZhao98/asset/master/Project/Cross-reality-Environment-SpatialTouch/teaser_.png "SpatialTouch_Image") |
 |:--------------------------------------------------------------------------------------------------------------------------:|
